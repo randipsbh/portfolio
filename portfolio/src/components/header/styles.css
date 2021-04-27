@@ -1,0 +1,14 @@
+.header-container {
+    height: 25vh;
+    /* width: 100vh; */
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.flex-child {
+    margin: 0 2em;
+
+}

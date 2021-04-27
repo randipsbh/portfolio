@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+.App {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url('./assets/images/seattle.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: chartreuse;
+}
+
+h1 {
+    font-family: 'Permanent Marker';
+    font-size: 5em;
+}
+
+span {
+    font-family: 'Amatic SC';
+    font-size: 3em;
+}
